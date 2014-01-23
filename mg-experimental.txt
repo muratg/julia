@@ -1,0 +1,2 @@
+- Reordering map, filter etc. parameters and see if "do" syntax is really necessary
+- .net bridge
